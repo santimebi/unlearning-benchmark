@@ -71,7 +71,8 @@ logs/
 *.json
 *.md
 !README.md
-!doc/
+!doc/**/*.md
+!doc/*.md
 
 # IDEs
 .idea/
